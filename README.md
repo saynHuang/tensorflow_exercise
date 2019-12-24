@@ -13,3 +13,9 @@ tensorflow保存模型和加载模型
 
 LSTM_classifier  
 使用LSTM来建立一个分类器，用于iris数据集的预测
+
+BiLSTM_classifier  
+使用BiLSTM来建立一个分类器，用于iris数据集的预测
+
+merge_model
+通过tensorflow对多个模型进行训练，加载，合并微调操作
